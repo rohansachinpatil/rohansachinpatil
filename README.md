@@ -2,7 +2,7 @@
 
 # hey, I'm Rohan 👋
 
-**Aspiring Entrepreneur · UI/UX Designer · Tech Enthusiast**
+**Aspiring Entrepreneur · Tech Enthusiast**
 
 *Building things that matter — from startup pitches to open-source PRs.*
 
