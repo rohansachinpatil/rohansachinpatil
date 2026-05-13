@@ -11,7 +11,7 @@
 
 **`Building at the intersection of AI, Open Source & Ideas Worth Spreading`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%2F+DL+%2F+LLM+Builder;Open+Source+Contributor+%E2%80%94+Mozilla+%C2%B7+Google+DeepMind;AIR+1+%40+NEC'25+IIT+Bombay+%F0%9F%8F%86;TEDxMET+Nashik+%E2%80%94+Official+License+Holder;Campus+Ambassador+%40+E-Cell+IIT+Bombay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%2F+DL+%2F+LLM+Builder;Open+Source+Contributor+%E2%80%94+Mozilla+%C2%B7+Google+DeepMind;;TEDxMET+Nashik+%E2%80%94+Official+License+Holder;)](https://git.io/typing-svg)
 
 </div>
 
@@ -105,7 +105,6 @@ $ pip install fastapi vector-db rag-pipelines deployment-skills
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanpatil)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanspatil801@gmail.com)
-[![Spotify](https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
 
 </div>
 
