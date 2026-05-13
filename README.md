@@ -74,17 +74,6 @@ OpenClaw                       →  AI cost analysis tool · Error handling · D
 
 ---
 
-## 🏆 Achievements
-
-```
-🥇  AIR 1  —  National Entrepreneurship Challenge, IIT Bombay E-Summit 2025  (₹90,000)
-🎖️  Merit Recognition Award 2024  —  HAL @ HAEWRC Merit Ceremony
-🎤  TEDxMET Nashik  —  Official TED License Holder & Lead Organizer
-🤝  Campus Ambassador  —  E-Cell IIT Bombay  |  Techfest IIT Bombay
-```
-
----
-
 ## 📡 Currently Learning
 
 ```bash
@@ -96,15 +85,6 @@ $ pip install fastapi vector-db rag-pipelines deployment-skills
 - 🚀 Deploying end-to-end ML models to **production**
 - 🌍 Levelling up from **small PRs → feature-level OS contributions**
 
----
-
-## 🎙️ Beyond Code
-
-```
-📻  CTRL+Byte Productions  —  AI-powered tech podcast · Live on Spotify
-🌱  CleanTrail             —  Eco-initiative · Nashik & Pune
-🍬  CaneWrap               —  Startup concept · Packaged sugarcane product
-```
 
 ---
 
